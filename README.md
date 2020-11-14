@@ -9,12 +9,7 @@ the data.
   * [Circular Linked List]
   * [Circular Doubly Linked List]
 * [Stack]
-  * [Stack Array]
-  * [Stack Linked List]
-  * [Stack Example (Generic)]
-  * [Stack Example]
 * [AVL Tree]
-  * [AVL Tree (Generic)]
 # Folder Hierarchy
 <img align="left" width="300" src="https://user-images.githubusercontent.com/43681383/98971267-f89b2e00-2521-11eb-9350-3d62c48e447a.png">
 
