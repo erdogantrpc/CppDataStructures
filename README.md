@@ -31,3 +31,5 @@ the data.
 # Installation
 In order to run the cpp programs we wrote in this hierarchy, you need to install the mingw32 compiler.
 This [link](https://www.ics.uci.edu/~pattis/common/handouts/mingweclipse/mingw.html) will help to setup.
+# Run
+To run the programs, you can run the exe file in the bin folder or you can run the "mingw32-make" command by going to the location where the make file is located in the folder you want to run with the terminal.
