@@ -5,8 +5,6 @@ values, the relationships among them, and the functions or operations that can b
 the data.
 * [Array List](ArrayList)
 * [Linked List]
-  * [Doubly Linked List]
-  * [Circular Linked List]
   * [Circular Doubly Linked List]
 * [Stack]
 * [AVL Tree]
